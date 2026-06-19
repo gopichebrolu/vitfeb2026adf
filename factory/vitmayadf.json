@@ -1,0 +1,15 @@
+{
+	"name": "vitmayadf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4918bba5-f1c8-4ab0-bd65-aae7773bbf8b",
+		"tenantId": "be4abb45-03e8-4a7d-9663-bacbcf3f769e"
+	}
+}
